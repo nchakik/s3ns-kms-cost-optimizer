@@ -1,0 +1,5 @@
+{
+  "name": "KMS Cost Calculator",
+  "description": "Compare costs between key-per-project and key-per-environment models for KMS keys.",
+  "requestFramePermissions": []
+}
